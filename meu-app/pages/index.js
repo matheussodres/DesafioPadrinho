@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -12,19 +11,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to batata!
-        </h1>
+        <h1 className={styles.title}>Welcome to batata!</h1>
 
-        <p className={styles.description}>
-            Desafio do Padrin: Olá mundo!
-        </p>
+        <p className={styles.description}>Desafio do Padrin: Olá mundo!</p>
       </main>
 
       <footer className={styles.footer}>
-        <a>
-          Powered by Theus
-        </a>
+        <a>Powered by Theus</a>
       </footer>
     </div>
   )
