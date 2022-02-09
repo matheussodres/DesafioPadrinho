@@ -8,8 +8,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
 ### Ajustes e melhorias
@@ -22,21 +20,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-## 📫 Contribuindo para <DesafioPadrinho>
+## 📫 Contribuindo para DesafioPadrinho
 
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 
-Para contribuir com <DesafioPadrinho>, siga estas etapas:
+Para contribuir com DesafioPadrinho, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -56,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/33385453?v=4" width="100px;" alt="Foto do Matheus no GitHub"/><br>
         <sub>
-          <b>Matheus Sodré dos Santos</b>
+          <b>Theus</b>
         </sub>
       </a>
     </td>
@@ -71,4 +59,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#DesafioPadrinho)<br>
